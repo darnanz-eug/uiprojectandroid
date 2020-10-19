@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My UI Application</string>
+    <string name="welcomeViewMessageButtonText">SEND</string>
+    <string name="welcomeViewMessageText">Enter a message</string>
+</resources>
